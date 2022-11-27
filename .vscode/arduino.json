@@ -1,0 +1,6 @@
+{
+    "configuration": "pnum=BLACKPILL_F103C8,upload_method=swdMethod,xserial=generic,usb=none,xusb=FS,opt=osstd,dbg=none,rtlib=nano",
+    "board": "STMicroelectronics:stm32:GenF1",
+    "sketch": "NodeMain.ino",
+    "port": "COM4"
+}
