@@ -52,7 +52,9 @@ const lmic_pinmap my_lmic_pins = {
   PB0, // reset pin
   {PA3, PB5, LMIC_UNUSED_PIN},
 };
+
 SoftwareSerial mySerial(PA10, PA9); // RX, TX
+
 void setup()
 {
   // pinMode(LED_BUILTIN, OUTPUT);

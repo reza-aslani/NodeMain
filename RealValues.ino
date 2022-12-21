@@ -10,7 +10,7 @@ int light = 0;
 
 void setup_real_values()
 {
-  mySerial.println("--------------- Start ");
+ //mySerial.println("--------------- Start ");
   // Serial.begin(9600);
   //  Set Pin Mode
   pinMode(PA0, OUTPUT);
